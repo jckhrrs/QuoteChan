@@ -1,0 +1,197 @@
+*{
+  
+  margin-bottom: 0;
+
+  
+}
+#signinButton{
+margin-top:10px;
+margin-right:10px;  
+}
+
+.bm-burger-bars{
+    background-color: black;
+    visibility: visible;
+    
+}
+.bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 30px;
+    left: 20px;
+    top: 20px;
+  
+  }
+ body,html{
+   background: #efe2ba;
+   height:100%;
+   padding:0;
+   margin:0;
+
+}
+#drop-ul{
+  padding:0;
+  margin:0;
+  background-color: rgb(235, 233, 233)
+
+}
+#drop-item{
+  border: 1px groove black;
+  text-align: center;
+  
+}
+#drop-item:hover{
+  background-color: rgb(170, 169, 169)
+
+}
+#drop-text{
+  
+  color:black;
+}
+  .bm-menu {
+    background: #96281B;
+    scroll-behavior: smooth;
+    overflow:auto;
+    background-image: url("projectback.jpg");
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    
+  }
+  .bm-item-list{
+   color:red;   
+   margin: 20px;
+   
+  }
+  #submitButton{
+    background-color: green;
+  }
+  .bm-overlay {
+    background:#8ee4af;
+  }
+#burgerdiv{
+  background-color: #efe2ba;
+}
+  #input{
+    align-items:  center;
+    align-content: center;
+    width:50%;
+    text-align: center;
+    margin-top: 100px;
+    padding: 50px;
+    color:red;
+   flex-flow: row wrap;
+    justify-content: center;
+  }
+  .buttun {
+    text-align: center;
+    padding-left:50px;
+    justify-content: center;
+    margin:auto;
+    margin-top:25px;
+  }
+  .title{
+  text-align: center;
+  margin-bottom:30px;
+  width:100%;
+  background-color: #efe2ba;
+  font-family: 'Oswald', sans-serif;
+  }
+   
+  #booksTitle{
+    font-family: 'Monoton', cursive;
+  }
+  #funnyTitle{
+    font-family: 'Comic Sans',cursive,sans-serif;
+  }
+
+  #motivationTitle{
+    font-family: 'Cormorant', serif;
+
+  }
+   #thoughtTitle{
+    font-family: 'Parisienne', cursive;
+
+  } 
+
+  .clicker {
+    cursor:pointer;
+    color:white;
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 25px;
+    text-shadow: 3px 1px black;
+    width:100%;
+    margin-left: 5px;
+    margin-right:5px;
+     padding-top:18px;
+     padding-bottom: 18px;
+    border: .25px solid whitesmoke;
+    text-align: center;
+    background-color:rgba(225,225,225,.10) ;
+  }
+  .clicker:hover{
+    color: whitesmoke;
+    background-color:rgba(225,225,225,.30)
+  }
+  .container{
+    text-align: center;
+    min-width: 100vh;
+    min-height: 100vh;
+    background-color: #efe2ba;
+  }
+  .arrow-up {
+    width: 0; 
+    height: 0; 
+      margin-left:auto;
+      margin-right:auto;
+      margin-top:15px;
+      margin-bottom:15px;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid rgb(3, 194, 3);
+  }
+  .arrow-up:hover{
+    
+    border-bottom: 20px solid rgb(9, 124, 9); ;
+
+  }
+  
+  .arrow-down {
+    width: 0; 
+    height: 0; 
+  
+   margin-left:auto;
+      margin-right:auto;
+      margin-top:15px;
+      margin-bottom:15px;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid  rgb(255, 0, 0);
+  }
+  .arrow-down:hover{
+    border-top: 20px solid rgb(158, 5, 5);
+  }
+  .border1{
+    margin:30px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-right:10px;
+    border:.5px solid gray;
+    
+  }
+  .col{
+    margin: auto;
+    font-size: 15pt;
+
+  }
+  .col-10{
+    margin:auto;
+    text-align: center;
+    
+  }
+  
+  
+  
+
